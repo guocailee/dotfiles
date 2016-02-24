@@ -22,6 +22,7 @@
 		"SublimeLinter-jshint",
 		"Syntax Highlighting for Sass",
 		"Terminal",
-		"Vintageous"
+		"Vintageous",
+		"Vue Syntax Highlight"
 	]
 }
