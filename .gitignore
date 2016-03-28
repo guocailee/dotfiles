@@ -6,10 +6,10 @@
 /sublime-text-3/Package Control.system-ca-bundle
 /sublime-text-3/Package Control.cache/
 /sublime-text-3/Package Control.ca-certs/
-/sublime-text-3/Local
-/sublime-text-3/Backup
+/sublime-text-3/Local/*
+/sublime-text-3/Backup/
 /sublime-text-3/Cache
 /sublime-text-3/Index
 /sublime-text-3/Installed Packages
-/sublime-text-3/Packages
 !/sublime-text-3/Packages/User
+/sublime-text-3/Packages
