@@ -1,11 +1,12 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/1337 (SL).tmTheme",
-	"font_size": 11,
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"Markdown"
 	],
-	"translate_tabs_to_spaces": false,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
 	"vintage_start_in_command_mode": true,
 	"word_wrap": "false"
 }
