@@ -12,6 +12,7 @@
 		"DocBlockr",
 		"Emmet",
 		"GitGutter",
+		"GitHub Flavored Markdown Preview",
 		"HTML-CSS-JS Prettify",
 		"JSX",
 		"Markdown Preview",
@@ -25,6 +26,7 @@
 		"SublimeLinter-jsxhint",
 		"Syntax Highlighting for Sass",
 		"Terminal",
+		"Theme - Spaceblack",
 		"Vintageous",
 		"Vue Syntax Highlight"
 	]

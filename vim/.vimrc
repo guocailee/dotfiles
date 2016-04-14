@@ -28,6 +28,8 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'Chiel92/vim-autoformat'
+Plugin 'scrooloose/nerdTree'
+Plugin 'Xuyuanp/nerdtree-git-plugin'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
@@ -44,3 +46,4 @@ filetype plugin indent on    " required
 " Put your non-Plugin stuff after this line
 
 noremap <F3> :Autoformat<CR>
+map <C-n> :NERDTreeToggle<CR>

@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/1337 (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Spaceblack/Color Schemes/Spaceblack.tmTheme",
 	"font_size": 10,
 	"ignored_packages":
 	[
@@ -7,6 +7,5 @@
 	],
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	"vintage_start_in_command_mode": true,
-	"word_wrap": "false"
+	"vintage_start_in_command_mode": true
 }

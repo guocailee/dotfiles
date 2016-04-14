@@ -5,10 +5,10 @@
         "error_color": "D02000",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
         "gutter_theme_excludes": [],
-        "lint_mode": "load/save",
+        "lint_mode": "background",
         "linters": {
             "eslint": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": []
             },
@@ -18,7 +18,12 @@
                 "excludes": []
             },
             "jshint": {
-                "@disable": true,
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "jsxhint": {
+                "@disable": false,
                 "args": [],
                 "excludes": []
             },
@@ -35,7 +40,7 @@
         "passive_warnings": false,
         "paths": {
             "linux": [
-                "/home/juyod/.nvm/versions/node/v4.2.2/bin"
+                "/home/juyod/.nvm/versions/node/v5.4.0/bin/"
             ],
             "osx": [],
             "windows": []
