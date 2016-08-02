@@ -7,6 +7,7 @@
 	[
 		"1337 Color Scheme",
 		"All Autocomplete",
+		"Coffee Color Scheme",
 		"Color Highlighter",
 		"ColorPicker",
 		"DocBlockr",
@@ -15,6 +16,7 @@
 		"GitHub Flavored Markdown Preview",
 		"HTML-CSS-JS Prettify",
 		"JSX",
+		"LESS",
 		"Markdown Preview",
 		"Package Control",
 		"ReactJS",
@@ -28,6 +30,7 @@
 		"Terminal",
 		"Theme - Spaceblack",
 		"Vintageous",
-		"Vue Syntax Highlight"
+		"Vue Syntax Highlight",
+		"WakaTime"
 	]
 }

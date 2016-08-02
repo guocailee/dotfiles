@@ -1,9 +1,8 @@
 {
 	"color_scheme": "Packages/Theme - Spaceblack/Color Schemes/Spaceblack.tmTheme",
-	"font_size": 11,
+	"font_size": 10,
 	"ignored_packages":
 	[
-		"Markdown"
 	],
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
