@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Seti_UI"
 	],
 	"installed_packages":
 	[
@@ -20,6 +21,7 @@
 		"Markdown Preview",
 		"Package Control",
 		"ReactJS",
+		"Sass",
 		"Seti_UI",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",

@@ -1,11 +1,12 @@
 {
-	"color_scheme": "Packages/Theme - Praxis/Monokai (Praxis).tmTheme",
-	"font_size": 10,
+	"color_scheme": "Packages/Theme - Spaceblack/Color Schemes/Spaceblack.tmTheme",
+	"font_size": 12,
 	"ignored_packages":
 	[
+		"Seti_UI"
 	],
 	"tab_size": 2,
-	"theme": "Seti.sublime-theme",
+	"theme": "Spaceblack.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"vintage_start_in_command_mode": true
 }
