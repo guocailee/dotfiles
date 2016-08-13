@@ -1,9 +1,8 @@
 {
-	"color_scheme": "Packages/Theme - Spaceblack/Color Schemes/Spaceblack.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_size": 12,
 	"ignored_packages":
 	[
-		"Seti_UI"
 	],
 	"tab_size": 2,
 	"theme": "Spaceblack.sublime-theme",
