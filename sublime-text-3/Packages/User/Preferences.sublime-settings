@@ -3,7 +3,6 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
-		"Seti_UI"
 	],
 	"tab_size": 2,
 	"theme": "Spaceblack.sublime-theme",
