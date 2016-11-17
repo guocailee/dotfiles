@@ -1,12 +1,12 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Agila Origin Oceanic Next (SL).tmTheme",
 	"font_size": 10,
 	"ignored_packages":
 	[
 	],
 	"show_encoding": true,
 	"tab_size": 2,
-	"theme": "Spaceblack.sublime-theme",
+	"theme": "Agila Origin.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"vintage_start_in_command_mode": true
 }

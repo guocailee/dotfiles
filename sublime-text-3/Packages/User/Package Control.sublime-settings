@@ -5,7 +5,7 @@
 	],
 	"installed_packages":
 	[
-		"1337 Color Scheme",
+		"Agila Theme",
 		"All Autocomplete",
 		"AutoFileName",
 		"Color Highlighter",
@@ -22,7 +22,6 @@
 		"Package Control",
 		"ReactJS",
 		"Sass",
-		"Seti_UI",
 		"StringUtilities",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
@@ -31,8 +30,6 @@
 		"SublimeLinter-jsxhint",
 		"Syntax Highlighting for Sass",
 		"Terminal",
-		"Theme - Praxis",
-		"Theme - Spaceblack",
 		"Vintageous",
 		"Vue Syntax Highlight",
 		"WakaTime"
