@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"Agila Theme",
 		"All Autocomplete",
 		"AutoFileName",
 		"Color Highlighter",
@@ -30,7 +29,6 @@
 		"SublimeLinter-jsxhint",
 		"Syntax Highlighting for Sass",
 		"Terminal",
-		"Theme - Soda",
 		"TypeScript",
 		"Vintageous",
 		"Vue Syntax Highlight",
