@@ -1,4 +1,6 @@
-#For linux
-#soft link sublime text 3 setting 
-ln -s /home/juyod/Project/dotfiles/sublime-text-3/ ~/.config/sublime-text-3
-
+# Vim Setting
+# Download VimPlug
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+# Link .vimrc
+ln -s ./Projects/dotfiles/vim/.vimrc ~/.vimrc
